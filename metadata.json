@@ -1,0 +1,6 @@
+{
+  "name": "MobileBazaar",
+  "description": "Compare smartphones, prices, ratings, and offers from trusted marketplaces, plus city-focused doorstep phone selling, exchange, repair, and certified refurbished mobile services.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
